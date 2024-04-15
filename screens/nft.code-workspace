@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "nft",
+			"path": ".."
+		},
+		{
+			"name": "constants",
+			"path": "../../newapp/constants"
+		}
+	],
+	"settings": {}
+}
